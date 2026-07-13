@@ -11,7 +11,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Isaac-Chua7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/isaac-chua7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Disciplined 2nd-year Computer Science student majoring in Artificial Intelligence UofA. </h3>**
+ **<h3 align="left">🚀 Disciplined 2nd-year Computer Science student majoring in Artificial Intelligence AU. </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
